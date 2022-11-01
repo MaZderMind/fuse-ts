@@ -21,6 +21,7 @@ extern int get_index_from_pathname(const char* path);
 #define 	INDEX_LOG		15	// Index for '/log'
 #define 	INDEX_SHOTCUT_TMP	16	// Index for '/shotcut-?????.mlt'
 #define 	INDEX_KDENLIVE_TMP	17	// Index for '/project.kdenlive.?????'
+#define 	INDEX_SHOTCUT22_TMP	18	// Index for '/project_shotcut.mlt.?????'
 
 
 #endif
